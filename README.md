@@ -1,2 +1,6 @@
-# 4-
-פרוייקט שלי ושל סער
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+void main()
+{
+    printf("hello");
+}
